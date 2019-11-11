@@ -1,4 +1,4 @@
-# hyperblog :tw-1f42f:
+# Hyperblog 🍕
 
 code example: 
 
